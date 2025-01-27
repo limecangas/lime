@@ -1,0 +1,85 @@
+body {
+    background-color: #dce524;
+    font-family: "montserrat";
+}
+
+ul {
+    list-style-type: none;
+    align-items: center;
+    text-align: center;
+    padding: 16px;
+    font-weight: 450;
+    line-height: 3;
+}
+
+h1 {
+    font-family: "poppins";
+    line-height: 0.7;
+    text-align: center;
+}
+
+.lime {
+    color: white;
+    font-size: 75px;
+}
+
+.miçangas {
+    color: #9bc33d;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    font-weight: 450;
+}
+
+a {
+    color: #dce524;
+    text-decoration: none;
+}
+
+.instagram {
+    padding: 7px 82px;
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+.instagram:hover {
+    background-color: #9bc33d;
+    color: white;
+}
+.whatsapp {
+    padding: 7px 82px;
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+.whatsapp:hover {
+    background-color: #9bc33d;
+    color: white;
+}
+
+.shopee {
+    padding: 7px 40px;
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+.shopee:hover {
+    background-color: #9bc33d;
+    color: white;
+}
+
+.copy {
+    font-size: 14px;
+}
